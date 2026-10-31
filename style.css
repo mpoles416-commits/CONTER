@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin-top: 50px;
+}
+#cont{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+button{
+    font-size: 30px;
+    width: 100px;
+    background-color: black;
+    color: goldenrod;
+    border-radius: 10px;
+    border: 2px solid goldenrod;
+    margin: 5px;
+    /* margin-right: 50px; */
+}
